@@ -8,7 +8,7 @@ const templateString = `
             height: 100%;
             top: 0;
             left: 0;
-            background: rgba(0, 0, 0, 0.42);
+            background: rgba(0, 0, 10, 0.42);
             -webkit-transition: opacity 0.5s;
             transition: opacity 0.5s;
             display: flex;
